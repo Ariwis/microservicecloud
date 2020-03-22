@@ -1,0 +1,4 @@
+# Project exclude paths
+/microservicecloud-api/target/
+/microservicecloud-consumer-user-80/target/
+/microservicecloud-provider-user-8001/target/
